@@ -1,0 +1,17 @@
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.AssemblyReference.cache
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\obj\Debug\MVVM\View\MainWindow.g.cs
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\obj\Debug\App.g.cs
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\obj\Debug\ChatApp_MarkupCompile.cache
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\obj\Debug\ChatApp_MarkupCompile.lref
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\obj\Debug\MVVM\View\MainWindow.baml
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\obj\Debug\ChatApp.g.resources
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+C:\Users\emir\Source\Repos\ChatApp\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
